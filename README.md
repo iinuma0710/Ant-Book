@@ -2,8 +2,8 @@
 「[プログラミングコンテストチャレンジブック](https://tatsu-zine.com/books/procon-challenge)」（蟻本）の勉強用のリポジトリです
 
 <div align="center">
-  <img src="https://tatsu-zine.com/images/books/136/cover_s.jpg" title="プログラミングコンテストチャレンジブック">
-</dv>
+  <img src="https://images-fe.ssl-images-amazon.com/images/I/41oruV%2BaJIL.jpg" title="プログラミングコンテストチャレンジブック">
+</div>
 
 ## CHAPTER 1 いざチャレンジ！でもその前にー準備編
 
