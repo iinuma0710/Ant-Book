@@ -5,10 +5,10 @@
   <img src="https://images-fe.ssl-images-amazon.com/images/I/41oruV%2BaJIL.jpg" title="プログラミングコンテストチャレンジブック">
 </div>
 
-## CHAPTER 1 いざチャレンジ！でもその前にー準備編
+## CHAPTER 1 いざチャレンジ！でもその前に ー 準備編
 
-## CHAPTER 2 基礎からのスタート！ー初級編
+## CHAPTER 2 基礎からのスタート！ ー 初級編
 
-## CHAPTER 3 ここで差がつく！ー中級編
+## CHAPTER 3 ここで差がつく！ ー 中級編
 
-## CHAPTER 4 さらに極める！ー上級編
+## CHAPTER 4 さらに極める！ ー 上級編
